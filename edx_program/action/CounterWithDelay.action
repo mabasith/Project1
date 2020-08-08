@@ -1,0 +1,6 @@
+uint32 num_counts    #Goal message
+---
+string result_message # Result message
+---
+uint32 counts_elapsed # Feedback message
+
