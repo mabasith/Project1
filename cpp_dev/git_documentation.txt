@@ -1,0 +1,106 @@
+1. start a directory as git directory:
+
+	git init
+
+2. Global idententity configuration
+
+	git config --global user.email <eamil id>
+	git config --global user.name <Basith>
+3. configur gedit editor for git 
+
+	git config --global core.editor gedit
+
+4. to know about current git configuration
+
+	git config --list
+
+5. to add a file to git
+
+	git add <file name>
+
+5. to add a file to git
+
+	git add <file name>
+
+5. to add a file to git
+
+	git add <file name>
+
+5. to add a file to git
+
+	git add <file name>
+
+5. to add a file to git
+
+	git add <file name>
+
+6. how to check git status
+
+	git status
+7. git commit
+
+	git commit -a -m "comments"
+
+	-a flag for staging all file
+8. remove file from staging area 
+
+	git rm --cached class_obj.cpp	
+
+9. for removing all changes
+        git checkout .
+10. for showing all commits in line
+
+	git log --oneline
+11. if we want what are the changes made by a file
+	git diff
+	git diff --staged
+12. for compare two last git commit
+
+	git diff HEAD HEAD~
+13. full detailes of committs
+	git show
+14. entaire history of file
+13. full detailes of committs
+	git show
+14. entaire history of file
+13. full detailes of committs
+	git show
+14. entaire history of file
+13. full detailes of committs
+	git show
+14. entaire history of file
+13. full detailes of committs
+	git show
+14. entaire history of file
+13. full detailes of committs
+	git show
+14. entaire history of file
+13. full detailes of committs
+	git show
+14. entaire history of file
+13. full detailes of committs
+	git show
+14. entaire history of file
+13. full detailes of committs
+	git show
+14. entaire history of file
+13. full detailes of committs
+	git show
+14. entaire history of file
+13. full detailes of committs
+	git show
+14. entaire history of file
+13. full detailes of committs
+	git show
+14. entaire history of file
+13. full detailes of committs
+	git show
+14. entaire history of file
+	git blame filename
+15.taging for release, it is special and important commits
+
+	git tag tagname
+
+16. add new branch
+	git checkout branchname
+  
